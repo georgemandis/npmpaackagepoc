@@ -24,6 +24,7 @@
   },
   "release": {
     "branches": [
+      "main",
       "prod",
       "next"
     ]
