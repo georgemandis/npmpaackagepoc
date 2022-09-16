@@ -1,0 +1,29 @@
+{
+  "name": "npmpaackagepoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgemandis/npmpaackagepoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgemandis/npmpaackagepoc/issues"
+  },
+  "homepage": "https://github.com/georgemandis/npmpaackagepoc#readme",
+  "devDependencies": {
+    "@semantic-release/npm": "^9.0.1"
+  },
+  "release": {
+    "branches": [
+      "prod",
+      "next"
+    ]
+  }
+}
